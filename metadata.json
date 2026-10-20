@@ -1,0 +1,6 @@
+{
+  "name": "IIV Ta'lim Platformasi",
+  "description": "O'zbekiston Respublikasi IIV o'quvchilari uchun videodarslar, 20 bosqichli testlar, yakuniy imtihon va rasmiy elektron sertifikat ta'lim tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
